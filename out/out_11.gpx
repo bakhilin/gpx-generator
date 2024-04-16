@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:lockito="https://lockito-app.com/import-gpx-2.xsd" creator="Lockito 2.0" version="3000034">
+  <metadata>
+    <name>ebcb91d9-172c-44d0-9525-985db0b6d242</name>
+    <extensions>
+      <lockito:loop>false</lockito:loop>
+    </extensions>
+  </metadata>
+
+      <wpt lat="59.853495825934246" lon="30.38191890845756">
+        <extensions>
+          <lockito:address>f0a7fdbf-ddac-4b27-9441-ff140221c038</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.853475029418036" lon="30.381806333323034">
+        <extensions>
+          <lockito:address>f716cd8d-8195-49e2-8c91-0d8df29ae522</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85350823558817" lon="30.381752014570363">
+        <extensions>
+          <lockito:address>cda78f25-19f5-4490-aca4-3a0e4f913a3d</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85350708863266" lon="30.38176315937572">
+        <extensions>
+          <lockito:address>811b6a9a-dada-4998-bad6-6cb018f422d3</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.853482438895725" lon="30.38166833209361">
+        <extensions>
+          <lockito:address>7dec927d-695c-49d6-b752-0d280ae913f6</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85337352108866" lon="30.38108155734759">
+        <extensions>
+          <lockito:address>029c7357-84b6-43de-8720-1b6196b3ce5e</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8530079814694" lon="30.379045902158918">
+        <extensions>
+          <lockito:address>ab95d26e-b3f6-47a1-bf49-ea34cf8f58e4</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.852978829924155" lon="30.37889758226489">
+        <extensions>
+          <lockito:address>9952adf1-4e52-4546-a2bd-23390089c517</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85279648614109" lon="30.377861894030836">
+        <extensions>
+          <lockito:address>c58358aa-a015-440e-ab5d-b9555c2029e6</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8527378323965" lon="30.377446947539553">
+        <extensions>
+          <lockito:address>fb3bf8a3-f972-4d6d-9631-336c2666bc0e</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85266595054017" lon="30.377133330558696">
+        <extensions>
+          <lockito:address>a67eadd0-8931-4348-a847-145e9a4a3724</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85260930533716" lon="30.376946544728177">
+        <extensions>
+          <lockito:address>6e85a2f8-20aa-4318-ac32-16a9d658f3f5</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85257268628474" lon="30.37675886640087">
+        <extensions>
+          <lockito:address>3ca9f1a4-1817-4656-a351-50810a2a02b6</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85242333331624" lon="30.375860668559287">
+        <extensions>
+          <lockito:address>8801f602-59ac-47b8-ab1b-4dad9753bea4</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85239809720032" lon="30.375619772755403">
+        <extensions>
+          <lockito:address>07f075fa-f590-4f86-a436-4046ad15b2a3</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.852351843211494" lon="30.375338018461697">
+        <extensions>
+          <lockito:address>4fc35762-423c-4356-af9f-34582fb90252</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85233352693272" lon="30.375215705398315">
+        <extensions>
+          <lockito:address>aaa7b900-24d0-45a2-9273-9389564d7c25</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85205846250079" lon="30.37371463410468">
+        <extensions>
+          <lockito:address>b9c60ad8-9836-4845-b893-8c94bb379ce1</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85200030992915" lon="30.373386379908922">
+        <extensions>
+          <lockito:address>8517b93f-14c6-4a87-89b3-043b7a26d7d4</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.851979899902126" lon="30.37324466792739">
+        <extensions>
+          <lockito:address>d7996ca9-7ba6-4c76-8bdc-4741cfa5f450</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.851807054680876" lon="30.372421095147462">
+        <extensions>
+          <lockito:address>1b118256-c53b-4892-8200-0df0e540ba29</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85178644093678" lon="30.372330762158285">
+        <extensions>
+          <lockito:address>0ca2e47e-1887-47d7-9077-81099b14f0fb</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.851697296299186" lon="30.37168049415455">
+        <extensions>
+          <lockito:address>98c1a888-855f-4e0c-b301-6c928bc66437</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85157772949018" lon="30.371070534640467">
+        <extensions>
+          <lockito:address>e0dac15e-c9b8-4cc8-b96a-0e3327ba777e</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85154337861291" lon="30.370971892544134">
+        <extensions>
+          <lockito:address>62810c35-1631-436a-98a5-0a5a5b1de364</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.851395933454086" lon="30.370185272526516">
+        <extensions>
+          <lockito:address>0a06aef4-82c6-4154-970d-62e179a9d7b9</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.851274029629984" lon="30.36945274650796">
+        <extensions>
+          <lockito:address>07cb6acd-ac61-465c-996d-40fbb35d0e3a</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85125332204484" lon="30.369335425579827">
+        <extensions>
+          <lockito:address>854494b3-5a66-45e7-9057-f4ce85227895</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85119096612326" lon="30.369120300675096">
+        <extensions>
+          <lockito:address>c64570e4-804d-4afb-92fd-6882fca51167</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85122161887417" lon="30.36899045387497">
+        <extensions>
+          <lockito:address>0581ccaf-0d61-40ba-b765-b11d3a2ae0dd</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8510816159705" lon="30.368526490029083">
+        <extensions>
+          <lockito:address>70be07c4-3e59-4601-8d77-8ea19b5b8480</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85107486579491" lon="30.368257329686514">
+        <extensions>
+          <lockito:address>7fb54439-255b-458c-8008-7686f4362ad2</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85104331825266" lon="30.368147851909228">
+        <extensions>
+          <lockito:address>4dfa1ea9-43bc-4600-a407-23c398928bb3</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85103689320659" lon="30.368174044911733">
+        <extensions>
+          <lockito:address>2b4f5cf8-eb51-4d92-926f-7a441c1e763f</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85101330078832" lon="30.368167766911174">
+        <extensions>
+          <lockito:address>dfff624a-9c07-4188-9bf7-7cf1b0a3d7fe</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85098618662398" lon="30.367999630677378">
+        <extensions>
+          <lockito:address>8920b479-6e98-41d7-8d02-2ee4e7b58bbf</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85097423548418" lon="30.36800202779625">
+        <extensions>
+          <lockito:address>0a3667f9-0f1e-4d78-a48a-0ead0e59d28d</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85100175930363" lon="30.367997238001166">
+        <extensions>
+          <lockito:address>2f04eed8-3373-4ce1-b4f5-d366dc338cad</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8510076573401" lon="30.368155653985223">
+        <extensions>
+          <lockito:address>5525ad26-3024-4d1b-ba0e-7a7700d890c1</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.850983238830196" lon="30.36818818419509">
+        <extensions>
+          <lockito:address>0cf44df2-0314-401a-a97d-fdbd88f120a3</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.850901860064525" lon="30.368253882490734">
+        <extensions>
+          <lockito:address>982a8c94-0677-4876-a3df-0906c8b8a693</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85082743699688" lon="30.368227287712244">
+        <extensions>
+          <lockito:address>648a8a1b-6f1b-40bf-8541-9b929463cfa4</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.85025638372965" lon="30.368469721051234">
+        <extensions>
+          <lockito:address>468cfcef-8dcd-44df-ab5f-ec4d204d3638</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.850048054833664" lon="30.368543814944626">
+        <extensions>
+          <lockito:address>94d0a2a3-0e36-4a71-aeb1-f25f24b948c6</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84984044236633" lon="30.368671795252087">
+        <extensions>
+          <lockito:address>fae85192-59b9-4599-b99b-6219578f1530</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.849428750977395" lon="30.368873265886737">
+        <extensions>
+          <lockito:address>c418e114-4c8b-4bb8-be15-a3ce366068c8</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84938503942924" lon="30.368893868413682">
+        <extensions>
+          <lockito:address>63dc8279-66a6-465e-bf8f-2f55e8aaa632</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84774610468499" lon="30.369714755143768">
+        <extensions>
+          <lockito:address>bea4c693-1dad-4b8f-aa99-97e21c9f1809</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84746422952507" lon="30.369860119943958">
+        <extensions>
+          <lockito:address>c453e63a-af5b-4e2f-b01f-da5cce8a462f</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.847152929253035" lon="30.370064265193175">
+        <extensions>
+          <lockito:address>759bf7a4-934b-40d7-a634-ae0dc6cba978</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8470250651661" lon="30.370121264975552">
+        <extensions>
+          <lockito:address>b4d69d30-fdd0-457c-9244-ec8f194855fc</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.846118899268106" lon="30.370760848711313">
+        <extensions>
+          <lockito:address>4de8795b-3c03-4c0c-8db9-6f274e0d1914</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.845944715236804" lon="30.370947122141658">
+        <extensions>
+          <lockito:address>df455e88-4eae-4096-84c3-43d773d7c9bf</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.845690098994496" lon="30.3711048287828">
+        <extensions>
+          <lockito:address>e69dbfd3-0e24-45a4-a8e0-aaff9ba2ea35</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84549387546007" lon="30.371155548069027">
+        <extensions>
+          <lockito:address>fc99bbc7-f3ad-432a-838e-573318b7a1de</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.845334994929594" lon="30.37131112497991">
+        <extensions>
+          <lockito:address>b9b3812a-8d4a-4412-bc8d-e710a5f0e696</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.845321747779614" lon="30.37129187794795">
+        <extensions>
+          <lockito:address>2f621a08-bb17-4310-a6af-81aeeaec89ed</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84536691121663" lon="30.371482597231687">
+        <extensions>
+          <lockito:address>92ec6308-f804-4274-a764-45581edba219</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84526452411726" lon="30.371730180427296">
+        <extensions>
+          <lockito:address>25b10d41-0416-4b5d-a245-723a79b14299</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.845267070968966" lon="30.371812969351357">
+        <extensions>
+          <lockito:address>c339440c-0e0a-46c7-b67d-2094170e1f25</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84531472644453" lon="30.37211773263388">
+        <extensions>
+          <lockito:address>88410c31-d528-4c27-b46b-335154e3ea8b</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84548379410206" lon="30.373071531198658">
+        <extensions>
+          <lockito:address>2b49f412-0495-4567-83de-ffb5013de40c</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84554058237775" lon="30.373242672372513">
+        <extensions>
+          <lockito:address>aac0fd83-6d73-424d-a1a6-0bcc1231ced2</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84561325919424" lon="30.373375801602364">
+        <extensions>
+          <lockito:address>c677551c-c283-4b03-8ca8-958e42c942b3</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84559365725584" lon="30.37361023565124">
+        <extensions>
+          <lockito:address>e9c89507-658f-4e1a-9900-532a54175388</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84564002554172" lon="30.374108094873357">
+        <extensions>
+          <lockito:address>561a1bb5-59c0-4d4c-bc28-442ec07d1304</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84562998580598" lon="30.374214698220136">
+        <extensions>
+          <lockito:address>418680d3-b4bb-41ad-a065-437f7819f080</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.845528223262946" lon="30.374316259009667">
+        <extensions>
+          <lockito:address>61e2d129-b89a-4442-af43-7e68fa5f836f</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.845834129566576" lon="30.37543250139308">
+        <extensions>
+          <lockito:address>e1647504-2238-42ef-866b-1a47e6bef1a1</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.845854813028375" lon="30.37558527930064">
+        <extensions>
+          <lockito:address>ab18e940-4791-4f0c-8453-79e7da843a0c</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84624790014364" lon="30.377034157144678">
+        <extensions>
+          <lockito:address>0b9e1c35-d59c-4869-b432-32915aef5acf</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84624710656369" lon="30.37709621923588">
+        <extensions>
+          <lockito:address>254628dc-df4e-4a66-9fee-9b8732d3dfda</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84636620220061" lon="30.377537172808097">
+        <extensions>
+          <lockito:address>e9b6811e-c60e-4341-a81a-268530006e7a</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84645777922766" lon="30.377877899741865">
+        <extensions>
+          <lockito:address>63889c36-c69b-4d8a-a632-652ec7ec1210</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84650834772488" lon="30.378111909869073">
+        <extensions>
+          <lockito:address>a699c81a-e23f-441b-8906-0b637ee08c61</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8464411043529" lon="30.37817601164972">
+        <extensions>
+          <lockito:address>37e6fee2-6346-4d6a-9c3f-e14688e71b7b</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.846375041584515" lon="30.378274303721092">
+        <extensions>
+          <lockito:address>89d86243-18d7-422f-b08d-dc18865039e6</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.846355899421134" lon="30.378393815032616">
+        <extensions>
+          <lockito:address>329c7d52-e3ab-4b69-abb0-1492cd701e4a</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84639553696178" lon="30.37854737836924">
+        <extensions>
+          <lockito:address>53378988-7864-4fb1-8795-1900a2ad5245</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.846531413103094" lon="30.37899061716794">
+        <extensions>
+          <lockito:address>586e891d-d539-47ab-8aac-69c4410f2fa1</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.846636142750334" lon="30.37944876348238">
+        <extensions>
+          <lockito:address>715e9ac3-df94-42b9-b261-6168ac163dd0</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84659067390744" lon="30.379528385112902">
+        <extensions>
+          <lockito:address>36a1ab70-02c6-4642-8e68-4089a10d0d01</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84654106279378" lon="30.37958909005309">
+        <extensions>
+          <lockito:address>b49af5a3-5158-41ee-86de-5930622e6cd5</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84649664825577" lon="30.3796055856104">
+        <extensions>
+          <lockito:address>9f35d473-7b01-4acb-9083-9f773387a135</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8464662758465" lon="30.37963266381646">
+        <extensions>
+          <lockito:address>c51021be-5110-43ba-8429-91964e9ccdd0</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84639622412199" lon="30.3797139059367">
+        <extensions>
+          <lockito:address>c89fe660-cd85-4991-8cba-912fa79dc777</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.846326916726305" lon="30.379762542829816">
+        <extensions>
+          <lockito:address>c5436d74-0e91-49a0-be86-61ae7a0e70d6</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.846291585845506" lon="30.379666386574502">
+        <extensions>
+          <lockito:address>535ef11f-8571-4c5a-9234-5255ebcb3265</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84630483599968" lon="30.379622729754626">
+        <extensions>
+          <lockito:address>91b4376b-1f0c-40e1-97db-2c204331d378</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84621166799035" lon="30.379597340546365">
+        <extensions>
+          <lockito:address>79028c91-41c4-4ff8-8079-bca5d9e1aa0c</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.846180878772934" lon="30.379596305870734">
+        <extensions>
+          <lockito:address>d906c92b-42c0-4147-a86e-387911c83d26</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84612522373203" lon="30.37965281834752">
+        <extensions>
+          <lockito:address>5b06d8fb-01a4-41d3-b8fa-a344092adebc</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8453602532923" lon="30.380413290000522">
+        <extensions>
+          <lockito:address>d8858ba2-7a21-411a-878b-e5a6c01591c2</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8437343725636" lon="30.382115960753712">
+        <extensions>
+          <lockito:address>b0be97aa-0f4c-4907-bab7-e40d51f95673</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84370105286987" lon="30.382144584345014">
+        <extensions>
+          <lockito:address>975dcefc-818b-4a97-ae42-476167ee6287</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84296643592349" lon="30.38284074684461">
+        <extensions>
+          <lockito:address>d45aac68-af48-4d21-a578-e19e682783f7</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84192302153822" lon="30.38389926524996">
+        <extensions>
+          <lockito:address>62063553-c083-4f7b-9120-06b7b4fedf0e</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84183626773326" lon="30.383969271639906">
+        <extensions>
+          <lockito:address>6d750117-703c-4850-87d9-6955c6e9852d</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.841599923693096" lon="30.384233971058972">
+        <extensions>
+          <lockito:address>9b86ed91-8fb1-4b62-af6c-ca39115aa6d7</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.841592839122995" lon="30.384287761550947">
+        <extensions>
+          <lockito:address>7b9d9e53-3470-4e95-a75d-28cf44253d80</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.841562772111835" lon="30.3843819493797">
+        <extensions>
+          <lockito:address>45f7a6d1-9188-423a-912e-9b8cdbb2a9ea</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84156430477827" lon="30.384400075447054">
+        <extensions>
+          <lockito:address>2144e7eb-e503-40c3-aeb4-57d33b27d328</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84156807075883" lon="30.384356430448847">
+        <extensions>
+          <lockito:address>ccbd5ac5-9306-49d2-aebb-dbca24413121</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.841813385473266" lon="30.38540165815648">
+        <extensions>
+          <lockito:address>032d4371-72de-4674-9b4f-ff04bffac07b</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84236924310373" lon="30.387535179208374">
+        <extensions>
+          <lockito:address>d50bd66d-ee11-46cd-84e2-7d0e17722140</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84235443268137" lon="30.387578453769475">
+        <extensions>
+          <lockito:address>25386ece-7a4e-4c33-8c11-3dee721e258f</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84238662270329" lon="30.387701922173395">
+        <extensions>
+          <lockito:address>31f185fe-04df-4c3a-8ad5-9f103d54c9d8</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84230600886666" lon="30.38758597770765">
+        <extensions>
+          <lockito:address>65f7b7f0-64b8-4726-9bd1-13f130f6a562</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84238085190972" lon="30.387542318435447">
+        <extensions>
+          <lockito:address>51e456bf-9570-4f53-801a-5382e3bdde3b</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84268588356604" lon="30.387235493809097">
+        <extensions>
+          <lockito:address>c7581832-150e-4b2e-8b32-067b4c7f011f</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84309734262088" lon="30.38678686101441">
+        <extensions>
+          <lockito:address>2cbc7622-e564-469c-b004-27ab523fc9f8</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.843118168192774" lon="30.38675321244954">
+        <extensions>
+          <lockito:address>caeaeed6-9297-4f42-9dc5-405e53947bc3</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.843164919656225" lon="30.38678162566301">
+        <extensions>
+          <lockito:address>949522b5-6274-4c0b-a08e-8282ad1899a0</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84328033255469" lon="30.387320700359627">
+        <extensions>
+          <lockito:address>0901a8d8-38d7-42e6-b0d2-f01c43d51519</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84348929894318" lon="30.387945312394127">
+        <extensions>
+          <lockito:address>b77de12a-8b2b-447a-ba93-9d5ef7c29e43</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.843737389651594" lon="30.388933672390273">
+        <extensions>
+          <lockito:address>e9ca7879-06eb-4a06-a1c5-9d2d5d7ab854</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84397506026181" lon="30.39002207161217">
+        <extensions>
+          <lockito:address>6939abdb-1764-438a-9881-0fb2d470f3e9</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.844168961774" lon="30.390793102897575">
+        <extensions>
+          <lockito:address>558fab91-4ee4-4f26-a79f-0cb92fa6d8da</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84416030629979" lon="30.390843897881613">
+        <extensions>
+          <lockito:address>41a8ece9-23e9-4e10-98e9-5f22ca3a04cb</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84416328262468" lon="30.390765841989708">
+        <extensions>
+          <lockito:address>43196cde-4186-4d36-8eb2-5239c9fbe120</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84423036135084" lon="30.390623960209442">
+        <extensions>
+          <lockito:address>4f87082b-cc6f-4e00-bb13-354d963bae53</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84429279209493" lon="30.39053686161141">
+        <extensions>
+          <lockito:address>47a8ddc5-402b-401c-b865-ed13c8a861eb</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.844321808464215" lon="30.39046488688662">
+        <extensions>
+          <lockito:address>ca789fac-15c2-4660-a12e-a0925115a25e</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.8445447697526" lon="30.390250871003175">
+        <extensions>
+          <lockito:address>8c55e491-1e77-4792-b54f-6b98cefc7166</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.845925282645126" lon="30.388889468210852">
+        <extensions>
+          <lockito:address>09b521b9-dbfc-4df7-85ca-10f7bbd032f4</lockito:address>
+        </extensions>
+      </wpt>
+      <wpt lat="59.84595706654784" lon="30.389066658060003">
+        <extensions>
+          <lockito:address>acd94880-1494-45f4-8946-ae2549f89159</lockito:address>
+        </extensions>
+      </wpt>
+  <trk>
+        <trkseg>
+          <trkpt lat="59.853495825934246" lon="30.38191890845756"/>
+          <trkpt lat="59.853475029418036" lon="30.381806333323034"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.853475029418036" lon="30.381806333323034"/>
+          <trkpt lat="59.85350823558817" lon="30.381752014570363"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85350823558817" lon="30.381752014570363"/>
+          <trkpt lat="59.85350708863266" lon="30.38176315937572"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85350708863266" lon="30.38176315937572"/>
+          <trkpt lat="59.853482438895725" lon="30.38166833209361"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.853482438895725" lon="30.38166833209361"/>
+          <trkpt lat="59.85337352108866" lon="30.38108155734759"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85337352108866" lon="30.38108155734759"/>
+          <trkpt lat="59.8530079814694" lon="30.379045902158918"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8530079814694" lon="30.379045902158918"/>
+          <trkpt lat="59.852978829924155" lon="30.37889758226489"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:19.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.852978829924155" lon="30.37889758226489"/>
+          <trkpt lat="59.85279648614109" lon="30.377861894030836"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:19.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85279648614109" lon="30.377861894030836"/>
+          <trkpt lat="59.8527378323965" lon="30.377446947539553"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8527378323965" lon="30.377446947539553"/>
+          <trkpt lat="59.85266595054017" lon="30.377133330558696"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85266595054017" lon="30.377133330558696"/>
+          <trkpt lat="59.85260930533716" lon="30.376946544728177"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85260930533716" lon="30.376946544728177"/>
+          <trkpt lat="59.85257268628474" lon="30.37675886640087"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85257268628474" lon="30.37675886640087"/>
+          <trkpt lat="59.85242333331624" lon="30.375860668559287"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85242333331624" lon="30.375860668559287"/>
+          <trkpt lat="59.85239809720032" lon="30.375619772755403"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:19.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85239809720032" lon="30.375619772755403"/>
+          <trkpt lat="59.852351843211494" lon="30.375338018461697"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:20.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.852351843211494" lon="30.375338018461697"/>
+          <trkpt lat="59.85233352693272" lon="30.375215705398315"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:20.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85233352693272" lon="30.375215705398315"/>
+          <trkpt lat="59.85205846250079" lon="30.37371463410468"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:21.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85205846250079" lon="30.37371463410468"/>
+          <trkpt lat="59.85200030992915" lon="30.373386379908922"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:19.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85200030992915" lon="30.373386379908922"/>
+          <trkpt lat="59.851979899902126" lon="30.37324466792739"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:19.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.851979899902126" lon="30.37324466792739"/>
+          <trkpt lat="59.851807054680876" lon="30.372421095147462"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:19.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.851807054680876" lon="30.372421095147462"/>
+          <trkpt lat="59.85178644093678" lon="30.372330762158285"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:20.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85178644093678" lon="30.372330762158285"/>
+          <trkpt lat="59.851697296299186" lon="30.37168049415455"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:20.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.851697296299186" lon="30.37168049415455"/>
+          <trkpt lat="59.85157772949018" lon="30.371070534640467"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:19.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85157772949018" lon="30.371070534640467"/>
+          <trkpt lat="59.85154337861291" lon="30.370971892544134"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:19.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85154337861291" lon="30.370971892544134"/>
+          <trkpt lat="59.851395933454086" lon="30.370185272526516"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.851395933454086" lon="30.370185272526516"/>
+          <trkpt lat="59.851274029629984" lon="30.36945274650796"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.851274029629984" lon="30.36945274650796"/>
+          <trkpt lat="59.85125332204484" lon="30.369335425579827"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85125332204484" lon="30.369335425579827"/>
+          <trkpt lat="59.85119096612326" lon="30.369120300675096"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85119096612326" lon="30.369120300675096"/>
+          <trkpt lat="59.85122161887417" lon="30.36899045387497"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85122161887417" lon="30.36899045387497"/>
+          <trkpt lat="59.8510816159705" lon="30.368526490029083"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8510816159705" lon="30.368526490029083"/>
+          <trkpt lat="59.85107486579491" lon="30.368257329686514"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85107486579491" lon="30.368257329686514"/>
+          <trkpt lat="59.85104331825266" lon="30.368147851909228"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85104331825266" lon="30.368147851909228"/>
+          <trkpt lat="59.85103689320659" lon="30.368174044911733"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85103689320659" lon="30.368174044911733"/>
+          <trkpt lat="59.85101330078832" lon="30.368167766911174"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85101330078832" lon="30.368167766911174"/>
+          <trkpt lat="59.85098618662398" lon="30.367999630677378"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85098618662398" lon="30.367999630677378"/>
+          <trkpt lat="59.85097423548418" lon="30.36800202779625"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85097423548418" lon="30.36800202779625"/>
+          <trkpt lat="59.85100175930363" lon="30.367997238001166"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85100175930363" lon="30.367997238001166"/>
+          <trkpt lat="59.8510076573401" lon="30.368155653985223"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8510076573401" lon="30.368155653985223"/>
+          <trkpt lat="59.850983238830196" lon="30.36818818419509"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.850983238830196" lon="30.36818818419509"/>
+          <trkpt lat="59.850901860064525" lon="30.368253882490734"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.850901860064525" lon="30.368253882490734"/>
+          <trkpt lat="59.85082743699688" lon="30.368227287712244"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85082743699688" lon="30.368227287712244"/>
+          <trkpt lat="59.85025638372965" lon="30.368469721051234"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.85025638372965" lon="30.368469721051234"/>
+          <trkpt lat="59.850048054833664" lon="30.368543814944626"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.850048054833664" lon="30.368543814944626"/>
+          <trkpt lat="59.84984044236633" lon="30.368671795252087"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84984044236633" lon="30.368671795252087"/>
+          <trkpt lat="59.849428750977395" lon="30.368873265886737"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.849428750977395" lon="30.368873265886737"/>
+          <trkpt lat="59.84938503942924" lon="30.368893868413682"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84938503942924" lon="30.368893868413682"/>
+          <trkpt lat="59.84774610468499" lon="30.369714755143768"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84774610468499" lon="30.369714755143768"/>
+          <trkpt lat="59.84746422952507" lon="30.369860119943958"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84746422952507" lon="30.369860119943958"/>
+          <trkpt lat="59.847152929253035" lon="30.370064265193175"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.847152929253035" lon="30.370064265193175"/>
+          <trkpt lat="59.8470250651661" lon="30.370121264975552"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:13.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8470250651661" lon="30.370121264975552"/>
+          <trkpt lat="59.846118899268106" lon="30.370760848711313"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:13.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.846118899268106" lon="30.370760848711313"/>
+          <trkpt lat="59.845944715236804" lon="30.370947122141658"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:13.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.845944715236804" lon="30.370947122141658"/>
+          <trkpt lat="59.845690098994496" lon="30.3711048287828"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:13.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.845690098994496" lon="30.3711048287828"/>
+          <trkpt lat="59.84549387546007" lon="30.371155548069027"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84549387546007" lon="30.371155548069027"/>
+          <trkpt lat="59.845334994929594" lon="30.37131112497991"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.845334994929594" lon="30.37131112497991"/>
+          <trkpt lat="59.845321747779614" lon="30.37129187794795"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.845321747779614" lon="30.37129187794795"/>
+          <trkpt lat="59.84536691121663" lon="30.371482597231687"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84536691121663" lon="30.371482597231687"/>
+          <trkpt lat="59.84526452411726" lon="30.371730180427296"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84526452411726" lon="30.371730180427296"/>
+          <trkpt lat="59.845267070968966" lon="30.371812969351357"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.845267070968966" lon="30.371812969351357"/>
+          <trkpt lat="59.84531472644453" lon="30.37211773263388"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84531472644453" lon="30.37211773263388"/>
+          <trkpt lat="59.84548379410206" lon="30.373071531198658"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84548379410206" lon="30.373071531198658"/>
+          <trkpt lat="59.84554058237775" lon="30.373242672372513"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84554058237775" lon="30.373242672372513"/>
+          <trkpt lat="59.84561325919424" lon="30.373375801602364"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84561325919424" lon="30.373375801602364"/>
+          <trkpt lat="59.84559365725584" lon="30.37361023565124"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84559365725584" lon="30.37361023565124"/>
+          <trkpt lat="59.84564002554172" lon="30.374108094873357"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84564002554172" lon="30.374108094873357"/>
+          <trkpt lat="59.84562998580598" lon="30.374214698220136"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84562998580598" lon="30.374214698220136"/>
+          <trkpt lat="59.845528223262946" lon="30.374316259009667"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.845528223262946" lon="30.374316259009667"/>
+          <trkpt lat="59.845834129566576" lon="30.37543250139308"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.845834129566576" lon="30.37543250139308"/>
+          <trkpt lat="59.845854813028375" lon="30.37558527930064"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.845854813028375" lon="30.37558527930064"/>
+          <trkpt lat="59.84624790014364" lon="30.377034157144678"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84624790014364" lon="30.377034157144678"/>
+          <trkpt lat="59.84624710656369" lon="30.37709621923588"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84624710656369" lon="30.37709621923588"/>
+          <trkpt lat="59.84636620220061" lon="30.377537172808097"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84636620220061" lon="30.377537172808097"/>
+          <trkpt lat="59.84645777922766" lon="30.377877899741865"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84645777922766" lon="30.377877899741865"/>
+          <trkpt lat="59.84650834772488" lon="30.378111909869073"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84650834772488" lon="30.378111909869073"/>
+          <trkpt lat="59.8464411043529" lon="30.37817601164972"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8464411043529" lon="30.37817601164972"/>
+          <trkpt lat="59.846375041584515" lon="30.378274303721092"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.846375041584515" lon="30.378274303721092"/>
+          <trkpt lat="59.846355899421134" lon="30.378393815032616"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.846355899421134" lon="30.378393815032616"/>
+          <trkpt lat="59.84639553696178" lon="30.37854737836924"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84639553696178" lon="30.37854737836924"/>
+          <trkpt lat="59.846531413103094" lon="30.37899061716794"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.846531413103094" lon="30.37899061716794"/>
+          <trkpt lat="59.846636142750334" lon="30.37944876348238"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:14.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.846636142750334" lon="30.37944876348238"/>
+          <trkpt lat="59.84659067390744" lon="30.379528385112902"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84659067390744" lon="30.379528385112902"/>
+          <trkpt lat="59.84654106279378" lon="30.37958909005309"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84654106279378" lon="30.37958909005309"/>
+          <trkpt lat="59.84649664825577" lon="30.3796055856104"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84649664825577" lon="30.3796055856104"/>
+          <trkpt lat="59.8464662758465" lon="30.37963266381646"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8464662758465" lon="30.37963266381646"/>
+          <trkpt lat="59.84639622412199" lon="30.3797139059367"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84639622412199" lon="30.3797139059367"/>
+          <trkpt lat="59.846326916726305" lon="30.379762542829816"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.846326916726305" lon="30.379762542829816"/>
+          <trkpt lat="59.846291585845506" lon="30.379666386574502"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.846291585845506" lon="30.379666386574502"/>
+          <trkpt lat="59.84630483599968" lon="30.379622729754626"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84630483599968" lon="30.379622729754626"/>
+          <trkpt lat="59.84621166799035" lon="30.379597340546365"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84621166799035" lon="30.379597340546365"/>
+          <trkpt lat="59.846180878772934" lon="30.379596305870734"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.846180878772934" lon="30.379596305870734"/>
+          <trkpt lat="59.84612522373203" lon="30.37965281834752"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84612522373203" lon="30.37965281834752"/>
+          <trkpt lat="59.8453602532923" lon="30.380413290000522"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:15.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8453602532923" lon="30.380413290000522"/>
+          <trkpt lat="59.8437343725636" lon="30.382115960753712"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:16.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8437343725636" lon="30.382115960753712"/>
+          <trkpt lat="59.84370105286987" lon="30.382144584345014"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84370105286987" lon="30.382144584345014"/>
+          <trkpt lat="59.84296643592349" lon="30.38284074684461"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84296643592349" lon="30.38284074684461"/>
+          <trkpt lat="59.84192302153822" lon="30.38389926524996"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84192302153822" lon="30.38389926524996"/>
+          <trkpt lat="59.84183626773326" lon="30.383969271639906"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84183626773326" lon="30.383969271639906"/>
+          <trkpt lat="59.841599923693096" lon="30.384233971058972"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.841599923693096" lon="30.384233971058972"/>
+          <trkpt lat="59.841592839122995" lon="30.384287761550947"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.841592839122995" lon="30.384287761550947"/>
+          <trkpt lat="59.841562772111835" lon="30.3843819493797"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.841562772111835" lon="30.3843819493797"/>
+          <trkpt lat="59.84156430477827" lon="30.384400075447054"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84156430477827" lon="30.384400075447054"/>
+          <trkpt lat="59.84156807075883" lon="30.384356430448847"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84156807075883" lon="30.384356430448847"/>
+          <trkpt lat="59.841813385473266" lon="30.38540165815648"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.841813385473266" lon="30.38540165815648"/>
+          <trkpt lat="59.84236924310373" lon="30.387535179208374"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84236924310373" lon="30.387535179208374"/>
+          <trkpt lat="59.84235443268137" lon="30.387578453769475"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84235443268137" lon="30.387578453769475"/>
+          <trkpt lat="59.84238662270329" lon="30.387701922173395"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84238662270329" lon="30.387701922173395"/>
+          <trkpt lat="59.84230600886666" lon="30.38758597770765"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84230600886666" lon="30.38758597770765"/>
+          <trkpt lat="59.84238085190972" lon="30.387542318435447"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84238085190972" lon="30.387542318435447"/>
+          <trkpt lat="59.84268588356604" lon="30.387235493809097"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84268588356604" lon="30.387235493809097"/>
+          <trkpt lat="59.84309734262088" lon="30.38678686101441"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:19.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84309734262088" lon="30.38678686101441"/>
+          <trkpt lat="59.843118168192774" lon="30.38675321244954"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:20.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.843118168192774" lon="30.38675321244954"/>
+          <trkpt lat="59.843164919656225" lon="30.38678162566301"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:20.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.843164919656225" lon="30.38678162566301"/>
+          <trkpt lat="59.84328033255469" lon="30.387320700359627"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:20.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84328033255469" lon="30.387320700359627"/>
+          <trkpt lat="59.84348929894318" lon="30.387945312394127"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:20.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84348929894318" lon="30.387945312394127"/>
+          <trkpt lat="59.843737389651594" lon="30.388933672390273"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.843737389651594" lon="30.388933672390273"/>
+          <trkpt lat="59.84397506026181" lon="30.39002207161217"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84397506026181" lon="30.39002207161217"/>
+          <trkpt lat="59.844168961774" lon="30.390793102897575"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.844168961774" lon="30.390793102897575"/>
+          <trkpt lat="59.84416030629979" lon="30.390843897881613"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84416030629979" lon="30.390843897881613"/>
+          <trkpt lat="59.84416328262468" lon="30.390765841989708"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84416328262468" lon="30.390765841989708"/>
+          <trkpt lat="59.84423036135084" lon="30.390623960209442"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:17.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84423036135084" lon="30.390623960209442"/>
+          <trkpt lat="59.84429279209493" lon="30.39053686161141"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.0</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.84429279209493" lon="30.39053686161141"/>
+          <trkpt lat="59.844321808464215" lon="30.39046488688662"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.844321808464215" lon="30.39046488688662"/>
+          <trkpt lat="59.8445447697526" lon="30.390250871003175"/>
+          <extensions>
+            <lockito:speed>fixed:14</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.3</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.8445447697526" lon="30.390250871003175"/>
+          <trkpt lat="59.845925282645126" lon="30.388889468210852"/>
+          <extensions>
+            <lockito:speed>fixed:12</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.8</lockito:altitude>
+          </extensions>
+        </trkseg>
+        <trkseg>
+          <trkpt lat="59.845925282645126" lon="30.388889468210852"/>
+          <trkpt lat="59.84595706654784" lon="30.389066658060003"/>
+          <extensions>
+            <lockito:speed>fixed:13</lockito:speed>
+            <lockito:accuracy>random:2.0:6.0</lockito:accuracy>
+            <lockito:altitude>fixed:18.5</lockito:altitude>
+          </extensions>
+        </trkseg>
+  </trk>
+</gpx>
